@@ -87,3 +87,4 @@ void loop() {
     check_for_updates();  //Check for update
     previousMillis = currentMillis;
   }
+}
